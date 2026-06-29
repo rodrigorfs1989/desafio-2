@@ -1,7 +1,7 @@
 # 📱 Challenge 2 - Responsive Project
 
 ## 📸 Preview of the Project
-![Project Preview](illustration2.png)
+![Project Preview](Illustration 2.png)
 
 ---
 
